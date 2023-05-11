@@ -1,7 +1,7 @@
  //switch to pages
  const menu = document.querySelectorAll("ul li")
  function selectPage(home,e){
-     fetch(`./html/${home?"./Home":e.target.innerText}.html`).then(data=>data.text()).then(data=>{
+     fetch(`./${home?"./Home":e.target.innerText}.html`).then(data=>data.text()).then(data=>{
          document.querySelector(".board").innerHTML=data
          })
 
@@ -48,7 +48,7 @@
 
 let dado =null;
 function setCerradex(){
- fetch("../images/cerradex.json").then(data=>data.json( )).then(data=>{
+ fetch("../cerradex.json").then(data=>data.json( )).then(data=>{
      dado=data
     data.forEach((e,id)=>{
         const block = document.createElement("div")
