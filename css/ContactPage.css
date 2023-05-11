@@ -6,4 +6,21 @@
     font-size: 2rem;
     position: relative;
     top: 4rem;
+   
+}
+#contactPage img{
+    position: relative;
+    left: 10rem;
+}
+ a{
+    font-size: 1.5rem;
+    text-decoration: none;
+    font-weight: bolder;
+    color: black;
+}
+#container{
+    display: flex  ;
+    flex-direction: row;
+    justify-content: space-between;
+    width:50rem;
 }

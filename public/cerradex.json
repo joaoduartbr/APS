@@ -5,215 +5,196 @@
     "family": "Fabaceae",
     "scientific_name": "Dipteryx alata",
     "status": "Quase ameaçada",
+    "img":"https://2.bp.blogspot.com/-ezW_YlUEnRM/VlrfqQGhV9I/AAAAAAAAMCA/uSRSS_5ZJ8g/s1600/10.JPG"
   },
   {
     "species": "Cagaita",
     "family": "Myrtaceae",
     "scientific_name": "Eugenia dysenterica",
     "status": "Pouco preocupante",
+    "img":"https://i.pinimg.com/originals/0d/cf/f3/0dcff3976d52bb2bc08d56d74fcfa189.jpg"
   },
   {
     "species": "Pequi",
     "family": "Caryocaraceae",
     "scientific_name": "Caryocar brasiliense",
     "status": "Pouco preocupante",
+    "img":"https://farm3.static.flickr.com/2544/4211705738_d69d71cfc0.jpg"
   },
   {
     "species": "Jatobá",
     "family": "Fabaceae",
     "scientific_name": "Hymenaea courbaril",
     "status": "Pouco preocupante",
+    "img":"https://www.naturalcura.com.br/wp-content/uploads/2017/12/beneficios-jatoba-beneficios.jpg"
   },
   {
     "species": "Buriti",
     "family": "Arecaceae",
     "scientific_name": "Mauritia flexuosa",
     "status": "Pouco preocupante",
+    "img":"https://minhasplantas.s3.amazonaws.com/media/plantas/galeria/Mauritia-flexuosa-01.jpg"
   },
   {
     "species": "Guavira",
     "family": "Myrtaceae",
     "scientific_name": "Campomanesia spp.",
     "status": "Quase ameaçada",
+    "img":"https://img.crocdn.co.uk/images/products2/pl/00/00/00/41/pl0000004117.jpg"
   },
   {
     "species": "Angelim",
     "family": "Fabaceae",
     "scientific_name": "Andira spp.",
     "status": "Pouco preocupante",
+    "img":"https://3.bp.blogspot.com/-9aMsnmgqvuI/UeVlFlpEC5I/AAAAAAAABoc/E2HcEvthGcg/s1600/Andira+vermifuga+IMG_8078.JPG"
   },
   {
     "species": "Sucupira",
     "family": "Fabaceae",
     "scientific_name": "Bowdichia virgilioides",
     "status": "Pouco preocupante",
+    "img":"https://c1.staticflickr.com/5/4118/4890066088_560b41d336_b.jpg"
 },
 {
 "species": "Ipê",
 "family": "Bignoniaceae",
 "scientific_name": "Handroanthus spp.",
 "status": "Pouco preocupante",
+"img":"https://mae-da-lua.org/port/flora_photos/handroanthus_sp1_00.jpg"
 },
 {
 "species": "Araticum",
 "family": "Annonaceae",
 "scientific_name": "Annona spp.",
 "status": "Dados insuficientes",
+"img":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Y5xgKjjtMiuZvTT-QPfUXwHaFj%26pid%3DApi&f=1&ipt=cbaeef082dd2c4482a7cfa940ee835604f386b1d3533775ab92b027b93b1d6bb&ipo=images"
 },
 {
 "species": "Embaúba",
 "family": "Cecropiaceae",
 "scientific_name": "Cecropia spp.",
 "status": "Pouco preocupante",
+"img":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Cecropia_glazioui.jpg"
 },
 {
 "species": "Arara-azul",
 "family": "Psittacidae",
 "scientific_name": "Anodorhynchus hyacinthinus",
 "status": "Criticamente em perigo",
+"img":"https://upload.wikimedia.org/wikipedia/commons/d/da/Arara_Azul_no_Pantanal.jpg"
 },
 {
 "species": "Lobo-guará",
 "family": "Canidae",
 "scientific_name": "Chrysocyon brachyurus",
 "status": "Vulnerável",
+"img":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Chrysocyon.brachyurus.jpg"
 },
 {
 "species": "Tamanduá-bandeira",
 "family": "Myrmecophagidae",
 "scientific_name": "Myrmecophaga tridactyla",
 "status": "Vulnerável",
+"img":"https://upload.wikimedia.org/wikipedia/commons/3/3b/Myresluger2.jpg"
 },
 {
 "species": "Onça-pintada",
 "family": "Felidae",
 "scientific_name": "Panthera onca",
 "status": "Quase ameaçada",
+"img":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Jaguar_%28Panthera_onca_palustris%29_female_Piquiri_River_2.JPG"
 },
 {
     "species": "Tatu-canastra",
     "family": "Dasypodidae",
     "scientific_name": "Priodontes maximus",
     "status": "Vulnerável",
+    "img":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.U3rlOuTRdRdmv6dN-_v-MAHaE8%26pid%3DApi&f=1&ipt=323ce14e44a2abed5e5afb5f4b528e5bb1557035fdcbfc795357b36678ba9ce7&ipo=images"
     },
     {
     "species": "Anta",
     "family": "Tapiridae",
     "scientific_name": "Tapirus terrestris",
     "status": "Vulnerável",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/3/36/South_American_tapir_%28Tapirus_terrestris%29.JPG"
     },
     {
     "species": "Tucano-toco",
     "family": "Ramphastidae",
     "scientific_name": "Ramphastos toco",
     "status": "Pouco preocupante",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Ramphastos_toco_-Birdworld%2C_Farnham%2C_Surrey%2C_England-8a.jpg"
     },
     {
     "species": "Tamanduá-mirim",
     "family": "Myrmecophagidae",
     "scientific_name": "Tamandua tetradactyla",
     "status": "Pouco preocupante",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/2/26/T_tetradactyla_1.jpg"
     },
     {
     "species": "Seriema",
     "family": "Cariamidae",
     "scientific_name": "Cariama cristata",
     "status": "Pouco preocupante",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/9/9f/Sireima_2_REFON.JPG"
     },
     {
     "species": "Jabuti",
     "family": "Testudinidae",
     "scientific_name": "Chelonoidis carbonaria",
     "status": "Vulnerável",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/b/b6/Geochelone_carbonaria_IMG_4978.jpg"
     },
     {
     "species": "Sucuri",
     "family": "Boidae",
     "scientific_name": "Eunectes murinus",
     "status": "Pouco preocupante",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/9/93/01-COBRA-SUCURI-3M-WAGNER-MEIER_MG_2458.JPG"
     },
     {
     "species": "Gato-do-mato",
     "family": "Felidae",
     "scientific_name": "Leopardus tigrinus",
     "status": "Vulnerável",
-    },
-    {
-    "species": "Lobo-guará",
-    "family": "Canidae",
-    "scientific_name": "Chrysocyon brachyurus",
-    "status": "Vulnerável",
-    },
-    {
-    "species": "Onça-pintada",
-    "family": "Felidae",
-    "scientific_name": "Panthera onca",
-    "status": "Quase ameaçada",
+    "img":"https://dinoanimals.pl/wp-content/uploads/2020/04/Ocelot-tygrysi-1-1120x700.jpg"
     },
     {
     "species": "Arara-azul-grande",
     "family": "Psittacidae",
     "scientific_name": "Anodorhynchus hyacinthinus",
     "status": "Vulnerável",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/d/da/Arara_Azul_no_Pantanal.jpg"
     },
     {
     "species": "Capivara",
     "family": "Caviidae",
     "scientific_name": "Hydrochoerus hydrochaeris",
     "status": "Pouco preocupante",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Capybara_%28Hydrochoerus_hydrochaeris%29.JPG"
     },
     {
     "species": "Gavião-real",
     "family": "Accipitridae",
     "scientific_name": "Harpia harpyja",
     "status": "Quase ameaçada",
+    "img":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.m5AxvfT6XnrFvwpfNVN3CQHaE7%26pid%3DApi&f=1&ipt=ec26bfeeb93bbf3408df51178502487fa3e7034bf4fef436b07d7db73485d14e&ipo=images"
     },
     {
     "species": "Sagui-de-tufos-pretos",
     "family": "Callitrichidae",
     "scientific_name": "Callithrix penicillata",
     "status": "Pouco preocupante",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Black-tufted_marmoset_%28sagui-de-tufos-pretos%29.jpg"
     },
     {
     "species": "Cervo-do-pantanal",
     "family": "Cervidae",
     "scientific_name": "Blastocerus dichotomus",
     "status": "Vulnerável",
-    },
-    {
-        "species": "Lobo-guará",
-        "family": "Canidae",
-        "scientific_name": "Chrysocyon brachyurus",
-        "status": "Vulnerável",
-        },
-        {
-        "species": "Onça-pintada",
-        "family": "Felidae",
-        "scientific_name": "Panthera onca",
-        "status": "Quase ameaçada",
-        },
-        {
-        "species": "Arara-azul-grande",
-        "family": "Psittacidae",
-        "scientific_name": "Anodorhynchus hyacinthinus",
-        "status": "Vulnerável",
-        },
-        {
-        "species": "Capivara",
-        "family": "Caviidae",
-        "scientific_name": "Hydrochoerus hydrochaeris",
-        "status": "Pouco preocupante",
-        },
-        {
-        "species": "Gavião-real",
-        "family": "Accipitridae",
-        "scientific_name": "Harpia harpyja",
-        "status": "Quase ameaçada",
-        },
-        {
-        "species": "Sagui-de-tufos-pretos",
-        "family": "Callitrichidae",
-        "scientific_name": "Callithrix penicillata",
-        "status": "Pouco preocupante",
-        },
+    "img":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Cervo_do_pantano.jpg"
+    }
+    
 ]
