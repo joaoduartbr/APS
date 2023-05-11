@@ -57,15 +57,16 @@ function setCerradex(){
 
         const span = document.createElement("span")
         span.innerText = `#${id}`
-        
-        const img = document.createElement("img")
-        img.src=e.img
+        block.style.backgroundImage=`url(${e.img})`
+    
+        // const img = document.createElement("img")
+        // img.src=e.img
 
         const name = document.createElement("p")
         name.innerText = e.species
 
         block.appendChild(span)
-        block.appendChild(img)
+        // block.appendChild(img)
         block.appendChild(name)
 
         block.addEventListener("click",showStatus)
@@ -80,7 +81,7 @@ function showStatus(e){
     const especie = dado[id]
     document.querySelector(".board").innerHTML=`
     <div id="statusContainer">
-    <div><h1>${especie.species}</h1> <span>#${id}</span></div>
+    <div id="Statusheader"><h1>${especie.species}</h1> <span>#${id}</span></div>
     <img src="${especie.img}">
     <div id="infos">
         <div id="family">
