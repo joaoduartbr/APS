@@ -1,7 +1,7 @@
  //switch to pages
  const menu = document.querySelectorAll("ul li")
  function selectPage(home,e){
-     fetch(`./${home?"./Home":e.target.innerText}.html`).then(data=>data.text()).then(data=>{
+     fetch(`./views/${home?"./Home":e.target.innerText}.html`).then(data=>data.text()).then(data=>{
          document.querySelector(".board").innerHTML=data
          })
 
