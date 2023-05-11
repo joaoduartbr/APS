@@ -48,7 +48,7 @@
 
 let dado =null;
 function setCerradex(){
- fetch("../cerradex.json").then(data=>data.json( )).then(data=>{
+ fetch("./cerradex.json").then(data=>data.json( )).then(data=>{
      dado=data
     data.forEach((e,id)=>{
         const block = document.createElement("div")
